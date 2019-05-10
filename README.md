@@ -16,3 +16,5 @@ http://www.youtube.com/user/c9ide.
 
 Happy coding!
 The Cloud9 IDE team
+
+[![Build Status](https://travis-ci.org/sae2018/ecommerce.svg?branch=master)](https://travis-ci.org/sae2018/ecommerce)
